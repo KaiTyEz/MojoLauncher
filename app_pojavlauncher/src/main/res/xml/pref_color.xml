@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="@string/launcher_color_settings"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:key="background_app_color"
+            android:title="@string/background_app_color"
+            android:summary="@string/tap_to_change_color"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="status_bar_color"
+            android:title="@string/status_bar_color"
+            android:summary="@string/tap_to_change_color"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="bottom_bar_color"
+            android:title="@string/bottom_bar_color"
+            android:summary="@string/tap_to_change_color"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="mine_button_color"
+            android:title="@string/mine_button_color"
+            android:summary="@string/tap_to_change_color"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="icon_color"
+            android:title="@string/icon_color"
+            android:summary="@string/tap_to_change_color"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="primary_text_color"
+            android:title="@string/primary_text_color"
+            android:summary="@string/tap_to_change_color"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="secondary_text_color"
+            android:title="@string/secondary_text_color"
+            android:summary="@string/tap_to_change_color"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen> 

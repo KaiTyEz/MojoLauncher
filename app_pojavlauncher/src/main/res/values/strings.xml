@@ -431,4 +431,23 @@
     <string name="bta_installer_untested_versions">Untested BTA versions</string>
     <string name="bta_installer_nightly_versions">Nightly BTA versions</string>
     <string name="newdl_extracting_native_libraries">Extracting native libraries (%d/%d)</string>
+
+    <!-- Color Settings -->
+    <string name="launcher_color_settings">Launcher Colors</string>
+    <string name="background_app_color">Background Color</string>
+    <string name="status_bar_color">Status Bar Color</string>
+    <string name="bottom_bar_color">Bottom Bar Color</string>
+    <string name="mine_button_color">Minecraft Button Color</string>
+    <string name="icon_color">Icon Color</string>
+    <string name="primary_text_color">Primary Text Color</string>
+    <string name="secondary_text_color">Secondary Text Color</string>
+    <string name="tap_to_change_color">Tap to change color</string>
+
+    <!-- Color Picker -->
+    <string name="select_color">Select Color</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
 </resources>

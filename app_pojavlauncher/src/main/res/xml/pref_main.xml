@@ -14,6 +14,14 @@
         >
 
         <Preference
+            android:key="color_screen_setting"
+            android:title="@string/launcher_color_settings"
+            android:summary="@string/tap_to_change_color"
+            android:fragment="net.kdt.pojavlaunch.prefs.screens.LauncherColorPreferenceFragment"
+            android:icon="@drawable/ic_px_palette"
+            />
+
+        <Preference
             android:key="video_screen_setting"
             android:title="@string/preference_video_title"
             android:summary="@string/preference_video_description"
